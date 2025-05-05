@@ -23,8 +23,8 @@ Software Requirements
 No additional library installation is required since 'Servo.h is included with the Arduino IDE.
 
 Wiring
-| Component         | Pin Connection                     |
-|-------------------|------------------------------------|
+| Component         | Pin Connection                    |
+|-------------------|-----------------------------------|
 | Servo 1 Signal    | Pin 9 on Arduino                  |
 | Servo 2 Signal    | Pin 10 on Arduino                 |
 | Servo 3 Signal    | Pin 11 on Arduino                 |
